@@ -1,5 +1,5 @@
 # リンクストレージ
-
+*　　
 ![url1](https://user-images.githubusercontent.com/87357349/155911995-096324a8-ae58-41c7-b5c8-3d50c94e03fc.JPG)　　
 ## 機能
 * URLのmetaタグ情報をもとに、タイトル、説明、イメージURLスクラップ
